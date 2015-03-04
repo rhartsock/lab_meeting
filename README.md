@@ -19,10 +19,21 @@
 * Strata http://rhartsock.github.io/strata
 
 # Procedure
+## Starting the Site
 1. Make a GitHub account. [The URL to your site will include your username] http://github.com
 2. Login to your GitHub account and choose one of the templates above. Open the bullet point link in a new tab.
 3. Press the Fork button in the top right of the screen to create your own copy of the site.
 4. Choose the settings tab on the right side of the screen.
 5. Change the Repository name to username.github.io
-6. Make sure the default branch is still gh-pages
-7. 
+6. Change the Default Branch to master
+7. The template site should now be live at username.github.io  
+
+## Editing the Site
+1. In the repository for the site (username.github.io) you will see several files. Select "index.html".
+2. From this screen you can edit the source code for your site by clicking the pencil at the top of the screen.
+3. Before editing, make sure the master branch is the one you are editing.
+4. In the source code for the site, there are several prompts, (NAME HERE, ABOUT ME PARAGRAPH, ONE SENTENCE SUMMARY).
+5. Replace these with the appropriate information.
+6. When you are ready to see your changes, select the "Commit Changes" button at the bottom of the page.
+7. In a new tab navigate to username.github.io
+8. Your changes may take a few seconds to appear, so try refreshing the page.
