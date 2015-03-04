@@ -1,2 +1,8 @@
-# lab_meeting
-Resources and instructions for the 'build your own site' lab meeting.
+# Required resources
+*GitHub Account
+*Computer (Mac or Windows would be ideal)
+*Firefox or Chrome web browser
+
+# Nice to have resources
+*PDF of your CV
+*Image of yourself
