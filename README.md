@@ -1,7 +1,10 @@
 # Required resources
 * GitHub Account  
-* Computer (Mac or Windows would be ideal)  
-* Firefox or Chrome web browser  
+* Computer (Mac would be ideal)  
+* Firefox or Chrome web browser
+* GitHub for Mac or GitHub for Windows downloaded and installed.
+   * https://mac.github.com/
+   * https://windows.github.com/
 
 # Nice to have resources
 * PDF of your CV  
@@ -63,5 +66,17 @@
 3. Replace the text inside the "" with the link to your page. [ie. https://twitter.com/rhartsock_]
 4. Repeat for additional networks.
 
-## Adding your CV
-1.
+## Adding your CV and Image
+1. On the overview page for your site repository select the "Clone in Desktop" button on the right side.
+2. This will open the project in the GitHub for Mac/Windows software.
+3. Under the "Repository" menu at the top, select open in finder.
+4. Add the pdf of your CV and your image to the folder.
+5. Close Finder and return to the GitHub for Mac/Windows tool.
+6. You should see the new files under the changes section.
+7. Add a commit message and select "commit to master"
+8. In the top right select the "sync" button. This will push your local changes to your GitHub site.
+9. You can repeat this process for any additional files you have to add.
+10. Return to the source code for your page in yout web browser and select edit again.
+11. Find the label for CV under additional resources and change the text inbetween the href="" to the name of your cv file (ie. cv.pdf)
+12. Find the images label and change the contents between the "" in src="" to be the name of your image (ie. selfie.png)
+13. Commit the changes with the button at the bottom of the page and check yout page.
