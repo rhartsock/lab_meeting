@@ -5,4 +5,5 @@
 
 # Nice to have resources
 *PDF of your CV  
-*Image of yourself  
+*Image of yourself    
+*Links to your other resources (Twitter, GitHub, Linkedin)
