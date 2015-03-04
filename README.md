@@ -10,6 +10,7 @@
 
 # Site Templates
 * Aerial http://rhartsock.github.io/aerial
+    * https://github.com/rhartsock/read-only
 * Astral http://rhartsock.github.io/astral
 * Highlights http://rhartsock.github.io/highlights
 * Read-Only http://rhartsock.github.io/read-only
