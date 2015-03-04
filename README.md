@@ -10,13 +10,19 @@
 
 # Site Templates
 * Aerial http://rhartsock.github.io/aerial
-    * https://github.com/rhartsock/read-only
+    * https://github.com/rhartsock/aerial
 * Astral http://rhartsock.github.io/astral
+    * https://github.com/rhartsock/astral
 * Highlights http://rhartsock.github.io/highlights
+    * https://github.com/rhartsock/highlights
 * Read-Only http://rhartsock.github.io/read-only
+    * https://github.com/rhartsock/read-only
 * Prologue http://rhartsock.github.io/prologue
+    * https://github.com/rhartsock/prologue
 * Miniport http://rhartsock.github.io/miniport
+    * https://github.com/rhartsock/miniport
 * Strata http://rhartsock.github.io/strata
+    * https://github.com/rhartsock/strata
 
 # Procedure
 ## Starting the Site
@@ -37,3 +43,22 @@
 6. When you are ready to see your changes, select the "Commit Changes" button at the bottom of the page.
 7. In a new tab navigate to username.github.io
 8. Your changes may take a few seconds to appear, so try refreshing the page.
+
+## Adding a Publication
+1. Find the Publications section in the source code.
+2. Change the TITLE text to the title of the publication.
+3. Add a short description in the appropriate space.
+4. find the href="" near the TITLE and add a link to your publication in the quotes.
+5. Repeat for additional publications.
+
+## Linking to Additional Sites [Twitter, Linkedin, GitHub, Email]
+### Email
+1. Find the Additional Resources section in the source code.
+2. Find the Email label and the href="".
+3. Replace the text inside the "" with mailto:your_email_address
+
+### Social/Professional Network sites
+1. Find the Additional Resources section in the source code.
+2. Find the label for the network you want to add and the href="".
+3. Replace the text inside the "" with the link to your page. [ie. https://twitter.com/rhartsock_]
+4. Repeat for additional networks.
