@@ -27,7 +27,7 @@
 # Procedure
 ## Starting the Site
 1. Make a GitHub account. [The URL to your site will include your username] http://github.com
-2. Login to your GitHub account and choose one of the templates above. Open the bullet point link in a new tab.
+2. Login to your GitHub account and choose one of the templates above. Open the second bullet point link in a new tab.
 3. Press the Fork button in the top right of the screen to create your own copy of the site.
 4. Choose the settings tab on the right side of the screen.
 5. Change the Repository name to username.github.io
@@ -62,3 +62,6 @@
 2. Find the label for the network you want to add and the href="".
 3. Replace the text inside the "" with the link to your page. [ie. https://twitter.com/rhartsock_]
 4. Repeat for additional networks.
+
+## Adding your CV
+1.
