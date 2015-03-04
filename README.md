@@ -16,3 +16,8 @@
 * Prologue http://rhartsock.github.io/prologue
 * Miniport http://rhartsock.github.io/miniport
 * Strata http://rhartsock.github.io/strata
+
+# Procedure
+1. Make a GitHub account. [The URL to your site will include your username] http://github.com
+2. Login to your GitHub account and choose one of the templates above. Open the bullet point link in a new tab.
+3. Press the Fork button in the top right of the screen to create your own copy of the site.
