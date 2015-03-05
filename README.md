@@ -34,8 +34,8 @@
 3. Press the Fork button in the top right of the screen to create your own copy of the site.
 4. Choose the settings tab on the right side of the screen.
 5. Change the Repository name to username.github.io
-6. Change the Default Branch to master
-7. The template site should now be live at username.github.io  
+6. The template site should now be live at username.github.io
+8. Change the Default Branch to master
 
 ## Editing the Site
 1. In the repository for the site (username.github.io) you will see several files. Select "index.html".
